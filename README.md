@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @David-0-1-dot
+- 👋 Hi, I'm @dots technology
 - 👀 I’m interested in software development and security
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...React project
 - 📫 How to reach me text
-- 😄 Pronouns: he/him
+- 😄 Pronouns: them/they
 - ⚡ Fun fact: ...
 
 <!---
